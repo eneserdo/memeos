@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MemeOS</title>
+<meta name="description" content="MemeOS: a desktop operating system that runs in your browser. Window manager, persistent file system, terminal, task manager, meme factory and far too many easter eggs.">
+<meta property="og:title" content="MemeOS">
+<meta property="og:description" content="A desktop operating system that runs in your browser. Much window. Very file. Wow.">
+<meta property="og:image" content="docs/social.png">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Anton&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/shell.css">
+<link rel="stylesheet" href="css/windows.css">
+<link rel="stylesheet" href="css/apps.css">
+</head>
+<body>
+<noscript>MemeOS needs JavaScript. Much sorry.</noscript>
+
+<div id="boot" class="screen">
+  <div class="boot-logo"><img src="assets/logo.svg" alt="" width="96" height="96"></div>
+  <div class="boot-bar"><div class="boot-fill"></div></div>
+  <div class="boot-msg">Starting MemeOS</div>
+</div>
+
+<div id="lock" class="screen hidden">
+  <div class="lock-time"><div class="lock-clock">00:00</div><div class="lock-date">Monday, 1 January</div></div>
+  <div class="lock-user">
+    <img class="lock-avatar" src="assets/avatars/pepe.svg" alt="" width="96" height="96">
+    <div class="lock-name">pepe</div>
+    <button class="lock-btn" id="lock-signin">Sign in</button>
+    <div class="lock-hint">Press Enter or click anywhere</div>
+  </div>
+</div>
+
+<div id="os" class="hidden">
+  <div id="wallpaper"></div>
+  <div id="desktop" tabindex="-1"></div>
+  <div id="windows"></div>
+  <div id="snap-preview" class="hidden"></div>
+  <div id="taskbar">
+    <div class="tb-left"></div>
+    <div class="tb-center">
+      <button class="tb-btn tb-start" id="tb-start" title="Start"><img src="assets/logo.svg" alt="Start" width="24" height="24"></button>
+      <button class="tb-btn tb-search" id="tb-search" title="Search"></button>
+      <div class="tb-apps" id="tb-apps"></div>
+    </div>
+    <div class="tb-right">
+      <button class="tb-tray" id="tb-tray" title="Quick settings"></button>
+      <button class="tb-clock" id="tb-clock" title="Clock and calendar"><span class="tb-time">00:00</span><span class="tb-date">1/1/2026</span></button>
+      <button class="tb-btn tb-notif" id="tb-notif" title="Notifications"><span class="notif-dot hidden"></span></button>
+    </div>
+  </div>
+  <div id="start" class="flyout hidden"></div>
+  <div id="quick" class="flyout hidden"></div>
+  <div id="calendar" class="flyout hidden"></div>
+  <div id="notifs" class="flyout hidden"></div>
+  <div id="toasts"></div>
+  <div id="switcher" class="hidden"></div>
+  <div id="overlay-layer"></div>
+</div>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,346 @@
+{
+ "trollface": {
+  "name": "Trollface",
+  "source": "https://knowyourmeme.com/memes/trollface",
+  "image": "https://i.kym-cdn.com/entries/icons/original/000/000/091/TrollFace.jpg",
+  "w": 900,
+  "h": 506,
+  "bytes": 57517
+ },
+ "nyancat": {
+  "name": "Nyan Cat",
+  "source": "https://knowyourmeme.com/memes/nyan-cat",
+  "image": "https://i.kym-cdn.com/entries/icons/original/000/005/608/nyan-cat-01-625x450.jpg",
+  "w": 613,
+  "h": 344,
+  "bytes": 18274
+ },
+ "rickroll": {
+  "name": "Rickroll",
+  "source": "https://knowyourmeme.com/memes/rickroll",
+  "image": "https://i.kym-cdn.com/entries/icons/original/000/000/007/bd6.jpg",
+  "w": 800,
+  "h": 450,
+  "bytes": 47012
+ },
+ "smugpepe": {
+  "name": "Smug Frog",
+  "source": "https://knowyourmeme.com/memes/smug-frog",
+  "image": "https://i.kym-cdn.com/entries/icons/original/000/017/104/0e9.jpg",
+  "w": 499,
+  "h": 499,
+  "bytes": 28637
+ },
+ "hackerman": {
+  "name": "Hackerman",
+  "source": "https://knowyourmeme.com/memes/hackerman",
+  "image": "https://i.kym-cdn.com/entries/icons/original/000/021/807/ig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg",
+  "w": 900,
+  "h": 506,
+  "bytes": 106984
+ },
+ "stonks": {
+  "name": "Stonks",
+  "source": "https://knowyourmeme.com/memes/stonks",
+  "image": "https://i.kym-cdn.com/entries/icons/original/000/029/959/Screen_Shot_2019-06-05_at_1.26.32_PM.jpg",
+  "w": 792,
+  "h": 446,
+  "bytes": 69817
+ },
+ "wojak": {
+  "name": "Wojak",
+  "source": "https://knowyourmeme.com/memes/wojak-feels-guy",
+  "image": "https://i.kym-cdn.com/entries/icons/original/000/018/433/wojak.jpg",
+  "w": 900,
+  "h": 506,
+  "bytes": 23403
+ },
+ "cheems": {
+  "name": "Cheems",
+  "source": "https://knowyourmeme.com/memes/cheems",
+  "image": "https://i.kym-cdn.com/entries/icons/original/000/031/994/Screen_Shot_2019-12-02_at_11.23.01_AM.png",
+  "w": 900,
+  "h": 478,
+  "bytes": 43898
+ },
+ "dogecoin": {
+  "name": "Doge (Kabosu)",
+  "source": "https://knowyourmeme.com/memes/doge",
+  "image": "https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg",
+  "w": 900,
+  "h": 507,
+  "bytes": 50061
+ },
+ "sunglassesdog": {
+  "name": "Deal With It",
+  "source": "https://knowyourmeme.com/memes/deal-with-it",
+  "image": "https://i.kym-cdn.com/entries/icons/original/000/002/686/Deal_with_it_dog_gif.gif",
+  "w": 380,
+  "h": 240,
+  "bytes": 8765
+ },
+ "pepesilvia": {
+  "name": "Pepe Silvia",
+  "source": "https://knowyourmeme.com/memes/pepe-silvia",
+  "image": "https://i.kym-cdn.com/entries/icons/original/000/022/524/pepe_silvia_meme_banner.jpg",
+  "w": 900,
+  "h": 506,
+  "bytes": 75702
+ },
+ "touchgrass": {
+  "name": "Touch Grass",
+  "source": "https://knowyourmeme.com/memes/touch-grass",
+  "image": "https://i.kym-cdn.com/entries/icons/original/000/037/154/grasscover.jpg",
+  "w": 900,
+  "h": 506,
+  "bytes": 106295
+ },
+ "doge": {
+  "name": "Doge",
+  "source": "https://imgflip.com/memegenerator/8072285/Doge",
+  "image": "https://imgflip.com/s/meme/Doge.jpg",
+  "w": 620,
+  "h": 620,
+  "bytes": 32274
+ },
+ "distracted": {
+  "name": "Distracted Boyfriend",
+  "source": "https://imgflip.com/memegenerator/112126428/Distracted-Boyfriend",
+  "image": "https://imgflip.com/s/meme/Distracted-Boyfriend.jpg",
+  "w": 900,
+  "h": 600,
+  "bytes": 80960
+ },
+ "catyell": {
+  "name": "Woman Yelling at a Cat",
+  "source": "https://imgflip.com/memegenerator/188390779/Woman-Yelling-At-Cat",
+  "image": "https://imgflip.com/s/meme/Woman-Yelling-At-Cat.jpg",
+  "w": 680,
+  "h": 438,
+  "bytes": 39088
+ },
+ "drake": {
+  "name": "Drake Hotline Bling",
+  "source": "https://imgflip.com/memegenerator/181913649/Drake-Hotline-Bling",
+  "image": "https://imgflip.com/s/meme/Drake-Hotline-Bling.jpg",
+  "w": 900,
+  "h": 900,
+  "bytes": 58157
+ },
+ "changemymind": {
+  "name": "Change My Mind",
+  "source": "https://imgflip.com/memegenerator/129242436/Change-My-Mind",
+  "image": "https://imgflip.com/s/meme/Change-My-Mind.jpg",
+  "w": 482,
+  "h": 361,
+  "bytes": 53292
+ },
+ "pigeon": {
+  "name": "Is This a Pigeon",
+  "source": "https://imgflip.com/memegenerator/100777631/Is-This-A-Pigeon",
+  "image": "https://imgflip.com/s/meme/Is-This-A-Pigeon.jpg",
+  "w": 900,
+  "h": 808,
+  "bytes": 73551
+ },
+ "gruplan": {
+  "name": "Gru's Plan",
+  "source": "https://imgflip.com/memegenerator/131940431/Grus-Plan",
+  "image": "https://imgflip.com/s/meme/Grus-Plan.jpg",
+  "w": 700,
+  "h": 449,
+  "bytes": 43181
+ },
+ "spongebob": {
+  "name": "Mocking SpongeBob",
+  "source": "https://imgflip.com/memegenerator/102156234/Mocking-Spongebob",
+  "image": "https://imgflip.com/s/meme/Mocking-Spongebob.jpg",
+  "w": 502,
+  "h": 353,
+  "bytes": 36934
+ },
+ "onedoesnot": {
+  "name": "One Does Not Simply",
+  "source": "https://imgflip.com/memegenerator/61579/One-Does-Not-Simply",
+  "image": "https://imgflip.com/s/meme/One-Does-Not-Simply.jpg",
+  "w": 568,
+  "h": 335,
+  "bytes": 32299
+ },
+ "rollsafe": {
+  "name": "Roll Safe",
+  "source": "https://imgflip.com/memegenerator/89370399/Roll-Safe-Think-About-It",
+  "image": "https://imgflip.com/s/meme/Roll-Safe-Think-About-It.jpg",
+  "w": 702,
+  "h": 395,
+  "bytes": 34727
+ },
+ "badluckbrian": {
+  "name": "Bad Luck Brian",
+  "source": "https://imgflip.com/memegenerator/61585/Bad-Luck-Brian",
+  "image": "https://imgflip.com/s/meme/Bad-Luck-Brian.jpg",
+  "w": 475,
+  "h": 562,
+  "bytes": 41308
+ },
+ "successkid": {
+  "name": "Success Kid",
+  "source": "https://imgflip.com/memegenerator/61544/Success-Kid",
+  "image": "https://imgflip.com/s/meme/Success-Kid.jpg",
+  "w": 500,
+  "h": 500,
+  "bytes": 10618
+ },
+ "grumpycat": {
+  "name": "Grumpy Cat",
+  "source": "https://imgflip.com/memegenerator/405658/Grumpy-Cat",
+  "image": "https://imgflip.com/s/meme/Grumpy-Cat.jpg",
+  "w": 500,
+  "h": 616,
+  "bytes": 50823
+ },
+ "disastergirl": {
+  "name": "Disaster Girl",
+  "source": "https://imgflip.com/memegenerator/97984/Disaster-Girl",
+  "image": "https://imgflip.com/s/meme/Disaster-Girl.jpg",
+  "w": 500,
+  "h": 375,
+  "bytes": 34959
+ },
+ "ancientaliens": {
+  "name": "Ancient Aliens",
+  "source": "https://imgflip.com/memegenerator/101470/Ancient-Aliens",
+  "image": "https://imgflip.com/s/meme/Ancient-Aliens.jpg",
+  "w": 500,
+  "h": 436,
+  "bytes": 26382
+ },
+ "philosoraptor": {
+  "name": "Philosoraptor",
+  "source": "https://imgflip.com/memegenerator/61516/Philosoraptor",
+  "image": "https://imgflip.com/s/meme/Philosoraptor.jpg",
+  "w": 500,
+  "h": 500,
+  "bytes": 25482
+ },
+ "takemymoney": {
+  "name": "Shut Up and Take My Money",
+  "source": "https://imgflip.com/memegenerator/176908/Shut-Up-And-Take-My-Money-Fry",
+  "image": "https://imgflip.com/s/meme/Shut-Up-And-Take-My-Money-Fry.jpg",
+  "w": 500,
+  "h": 281,
+  "bytes": 23093
+ },
+ "bernie": {
+  "name": "Bernie: I Am Once Again Asking",
+  "source": "https://imgflip.com/memegenerator/222403160/Bernie-I-Am-Once-Again-Asking-For-Your-Support",
+  "image": "https://imgflip.com/s/meme/Bernie-I-Am-Once-Again-Asking-For-Your-Support.jpg",
+  "w": 750,
+  "h": 750,
+  "bytes": 57750
+ },
+ "sadpablo": {
+  "name": "Sad Pablo Escobar",
+  "source": "https://imgflip.com/memegenerator/80707627/Sad-Pablo-Escobar",
+  "image": "https://imgflip.com/s/meme/Sad-Pablo-Escobar.jpg",
+  "w": 720,
+  "h": 709,
+  "bytes": 62431
+ },
+ "skeleton": {
+  "name": "Waiting Skeleton",
+  "source": "https://imgflip.com/memegenerator/4087833/Waiting-Skeleton",
+  "image": "https://imgflip.com/s/meme/Waiting-Skeleton.jpg",
+  "w": 298,
+  "h": 403,
+  "bytes": 37026
+ },
+ "unodraw25": {
+  "name": "UNO Draw 25 Cards",
+  "source": "https://imgflip.com/memegenerator/217743513/UNO-Draw-25-Cards",
+  "image": "https://imgflip.com/s/meme/UNO-Draw-25-Cards.jpg",
+  "w": 500,
+  "h": 494,
+  "bytes": 26044
+ },
+ "batman": {
+  "name": "Batman Slapping Robin",
+  "source": "https://imgflip.com/memegenerator/438680/Batman-Slapping-Robin",
+  "image": "https://imgflip.com/s/meme/Batman-Slapping-Robin.jpg",
+  "w": 400,
+  "h": 387,
+  "bytes": 33114
+ },
+ "fry": {
+  "name": "Futurama Fry",
+  "source": "https://imgflip.com/memegenerator/61520/Futurama-Fry",
+  "image": "https://imgflip.com/s/meme/Futurama-Fry.jpg",
+  "w": 552,
+  "h": 414,
+  "bytes": 18855
+ },
+ "morpheus": {
+  "name": "Matrix Morpheus",
+  "source": "https://imgflip.com/memegenerator/100947/Matrix-Morpheus",
+  "image": "https://imgflip.com/s/meme/Matrix-Morpheus.jpg",
+  "w": 500,
+  "h": 303,
+  "bytes": 17605
+ },
+ "leftexit": {
+  "name": "Left Exit 12 Off Ramp",
+  "source": "https://imgflip.com/memegenerator/124822590/Left-Exit-12-Off-Ramp",
+  "image": "https://imgflip.com/s/meme/Left-Exit-12-Off-Ramp.jpg",
+  "w": 804,
+  "h": 767,
+  "bytes": 61148
+ },
+ "handshake": {
+  "name": "Epic Handshake",
+  "source": "https://imgflip.com/memegenerator/135256802/Epic-Handshake",
+  "image": "https://imgflip.com/s/meme/Epic-Handshake.jpg",
+  "w": 900,
+  "h": 645,
+  "bytes": 78467
+ },
+ "sleepingshaq": {
+  "name": "Sleeping Shaq",
+  "source": "https://imgflip.com/memegenerator/99683934/Sleeping-Shaq",
+  "image": "https://imgflip.com/s/meme/Sleeping-Shaq.jpg",
+  "w": 640,
+  "h": 631,
+  "bytes": 48811
+ },
+ "dicaprio": {
+  "name": "Leonardo Dicaprio Cheers",
+  "source": "https://imgflip.com/memegenerator/50421420/Leonardo-Dicaprio-Cheers",
+  "image": "https://imgflip.com/s/meme/Leonardo-Dicaprio-Cheers.jpg",
+  "w": 600,
+  "h": 400,
+  "bytes": 29714
+ },
+ "thisisfine": {
+  "name": "This Is Fine",
+  "source": "https://imgflip.com/memegenerator/55311130/This-Is-Fine",
+  "image": "https://imgflip.com/s/meme/This-Is-Fine.jpg",
+  "w": 580,
+  "h": 282,
+  "bytes": 58077
+ },
+ "pikachu": {
+  "name": "Surprised Pikachu",
+  "source": "https://imgflip.com/memegenerator/155067746/Surprised-Pikachu",
+  "image": "https://imgflip.com/s/meme/Surprised-Pikachu.jpg",
+  "w": 900,
+  "h": 576,
+  "bytes": 37798
+ },
+ "harold": {
+  "name": "Hide the Pain Harold",
+  "source": "https://imgflip.com/memegenerator/27813981/Hide-the-Pain-Harold",
+  "image": "https://imgflip.com/s/meme/Hide-the-Pain-Harold.jpg",
+  "w": 480,
+  "h": 601,
+  "bytes": 36613
+ }
+}

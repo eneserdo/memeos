@@ -1,0 +1,11 @@
+Githubtoken.txt
+MainGithub.txt
+.env
+__pycache__/
+*.pyc
+tools/_*.py
+tools/_*.log
+_backups/
+notes/
+.DS_Store
+Thumbs.db
