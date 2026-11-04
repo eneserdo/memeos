@@ -22,7 +22,7 @@ registerApp({
     url.addEventListener("keydown", e => { if (e.key === "Enter") nav(url.value.trim()); if (e.key === "Escape") url.value = st.hist[st.i] || ""; });
     function renderHome() {
       home.innerHTML = "";
-      home.append(el("div", { class: "sf-hero" }, el("img", { src: "assets/logo.svg", alt: "", width: 56, height: 56 }), el("h1", { text: "Surf" }), el("p", { text: "Most big sites send X-Frame-Options and refuse to load inside another page. These do not (today)." })),
+      home.append(el("div", { class: "sf-hero" }, el("img", { src: "assets/logo.png", alt: "", width: 56, height: 56 }), el("h1", { text: "Surf" }), el("p", { text: "Most big sites send X-Frame-Options and refuse to load inside another page. These do not (today)." })),
         el("div", { class: "sf-links" }, ...LINKS.map(([t, u]) => el("button", { class: "sf-link", onclick: () => nav(u) }, el("span", { html: icon("globe") }), el("b", { text: t }), el("small", { text: u.replace(/^https?:\/\//, "") })))),
         el("div", { class: "sf-local" }, el("h3", { text: "Local pages" }), ...["/system/release-notes.md", "/home/pepe/Documents/welcome.md"].map(p => el("button", { class: "sf-link", onclick: () => nav("memeos:/" + p) }, el("span", { html: icon("fileText") }), el("b", { text: p })))));
     }

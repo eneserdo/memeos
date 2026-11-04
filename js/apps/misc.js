@@ -38,7 +38,7 @@ registerApp({
 registerApp({
   id: "about", name: "About MemeOS", desc: "Version and credits", icon: "info", color: "linear-gradient(135deg,#c084fc,#7c3aed)", w: 460, h: 380, minW: 460, minH: 380, resizable: false, single: true, hidden: true,
   mount(win) {
-    win.body.append(el("div", { class: "ab" }, el("img", { src: "assets/logo.svg", alt: "", width: 80, height: 80 }), el("h2", { text: "MemeOS" }), el("p", { class: "ab-v", text: "Version 1.0 (build wow)" }),
+    win.body.append(el("div", { class: "ab" }, el("img", { src: "assets/logo.png", alt: "", width: 80, height: 80 }), el("h2", { text: "MemeOS" }), el("p", { class: "ab-v", text: "Version 1.0 (build wow)" }),
       el("p", { text: "A desktop operating system that runs in a single browser tab. Window manager, persistent file system, terminal, task manager, apps and easter eggs. No servers, no accounts, no telemetry." }),
       el("p", { html: `<a href="https://github.com/eneserdo/memeos" target="_blank" rel="noopener">github.com/eneserdo/memeos</a>` }),
       el("div", { class: "row" }, el("button", { class: "btn primary", text: "OK", onclick: () => win.close() }))));

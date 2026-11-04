@@ -237,5 +237,5 @@ python tools/make_wallpapers.py       # regenerate the wallpapers
 
 Code is MIT. The meme pictures belong to their creators and are listed with sources in
 [ATTRIBUTION.md](ATTRIBUTION.md); they are illustrations, not part of the system, and will be removed on request.
-Fonts: Inter, JetBrains Mono and Anton via Google Fonts. Everything else, including the icons, logo, avatars and
-wallpapers, was drawn or generated for this project.
+Fonts: Inter, JetBrains Mono and Anton via Google Fonts. The logo is four of those pictures (Doge, Trollface, Grumpy Cat, Success Kid) in a
+tile grid. Everything else, including the icons, avatars and wallpapers, was drawn or generated for this project.

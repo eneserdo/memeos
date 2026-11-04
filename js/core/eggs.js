@@ -93,7 +93,7 @@ function initScreensaver() {
   setInterval(() => { if (document.getElementById("os").classList.contains("locked") || document.getElementById("os").classList.contains("hidden")) return; idle++; if (idle >= 120 && !active) start(); }, 1000);
   function start() {
     active = true;
-    const s = el("div", { class: "saver" }), logo = el("img", { src: "assets/logo.svg", alt: "", class: "saver-logo" }); s.append(logo); document.body.append(s);
+    const s = el("div", { class: "saver" }), logo = el("img", { src: "assets/logo.png", alt: "", class: "saver-logo" }); s.append(logo); document.body.append(s);
     let x = 100, y = 100, vx = 2.4, vy = 1.9, hits = 0, w = 140;
     const memes = ["doge", "smugpepe", "trollface", "pikachu", "grumpycat", "nyancat", "stonks", "harold", "wojak", "cheems"];
     let raf; const step = () => {
